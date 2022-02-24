@@ -1,0 +1,39 @@
+body {
+  background: #FFFFFF;
+}
+
+#pageContainer > div:first-of-type {
+	border: 1px solid #D6DFE6;
+}
+
+.btn {
+	/* border-radius: 0; */
+}
+
+.btn-primary {
+	background-color: #F1F3F3;
+	border-color: #C4CED7;
+	color: #000000;
+	font-size: 12px;
+    font-weight: bold;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary:active:focus, .btn-primary:active:hover {
+    background-color: #F1F3F3;
+	border-color: #C4CED7;
+	color: #000000;
+}
+
+#report-header {
+  background: #FFFFFF;
+  padding-top: 0px;
+}
+
+#report-header img {
+    height: auto;
+    margin-top: 12px;
+}
+
+#report-title {
+	padding: 0px;
+}
